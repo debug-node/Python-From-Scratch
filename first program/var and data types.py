@@ -1,0 +1,16 @@
+a=10
+b=10.5
+nm="cimage"
+st=True
+cm=10+5j
+mylist=[]
+myset={}
+mytuple=()
+print(type(a))
+print(type(b))
+print(type(nm))
+print(type(st))
+print(type(cm))
+print(type(mylist))
+print(type(myset))
+print(type(mytuple))

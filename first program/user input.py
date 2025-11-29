@@ -1,0 +1,6 @@
+a= int(input("enter a no."))
+print(a)
+b= float(input("enter a no."))
+print(b)
+a= input("enter a name :")
+print(a)
